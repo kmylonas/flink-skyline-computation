@@ -1,0 +1,13 @@
+mypackage/MyProcessFunction.class
+mypackage/DimKeySelector.class
+mypackage/StringToListFunction.class
+mypackage/GlobalSkylineCalculator$1.class
+mypackage/GlobalSkylineCalculator.class
+mypackage/HashFunction.class
+mypackage/LocalSkylineFunction$1.class
+mypackage/PruneKeyFunction.class
+mypackage/TriggerKeySelector.class
+mypackage/TriggerFormatter.class
+mypackage/MyProcessFunction$1.class
+mypackage/DataStreamJob.class
+mypackage/LocalSkylineFunction.class

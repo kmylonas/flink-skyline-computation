@@ -1,0 +1,10 @@
+/Users/kmylonas/Documents/Courses/DataBases/flink-projects/second-flink-app/myartifactid/src/main/java/mypackage/DataStreamJob.java
+/Users/kmylonas/Documents/Courses/DataBases/flink-projects/second-flink-app/myartifactid/src/main/java/mypackage/TriggerFormatter.java
+/Users/kmylonas/Documents/Courses/DataBases/flink-projects/second-flink-app/myartifactid/src/main/java/mypackage/StringToListFunction.java
+/Users/kmylonas/Documents/Courses/DataBases/flink-projects/second-flink-app/myartifactid/src/main/java/mypackage/LocalSkylineFunction.java
+/Users/kmylonas/Documents/Courses/DataBases/flink-projects/second-flink-app/myartifactid/src/main/java/mypackage/HashFunction.java
+/Users/kmylonas/Documents/Courses/DataBases/flink-projects/second-flink-app/myartifactid/src/main/java/mypackage/MyProcessFunction.java
+/Users/kmylonas/Documents/Courses/DataBases/flink-projects/second-flink-app/myartifactid/src/main/java/mypackage/GlobalSkylineCalculator.java
+/Users/kmylonas/Documents/Courses/DataBases/flink-projects/second-flink-app/myartifactid/src/main/java/mypackage/DimKeySelector.java
+/Users/kmylonas/Documents/Courses/DataBases/flink-projects/second-flink-app/myartifactid/src/main/java/mypackage/TriggerKeySelector.java
+/Users/kmylonas/Documents/Courses/DataBases/flink-projects/second-flink-app/myartifactid/src/main/java/mypackage/PruneKeyFunction.java
